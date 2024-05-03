@@ -1,7 +1,7 @@
 This is an Asset Management System built on a blockchain framework, providing functionalities for block creation, mining, and transaction verification. This was created as part of Crypotgraphy Project - BITS F463
 
 ## Technologies Used
-**Frontend:** HTML, CSS, Bootstrap
+**Frontend:** HTML, CSS, Bootstrap\n
 **Backend:** Python, Flask
 **Encryption:** DES, SHA-256
 **Security:** Zero Knowledge Proof (ZKP)
